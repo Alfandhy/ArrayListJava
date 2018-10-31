@@ -1,12 +1,18 @@
 # ArrayListJava
+===========================================================================
+
 Class main untuk penggunaan Struktur Data ArrayList bertipe String.
 https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListInteger.java
+
 Class main untuk penggunaan Struktur Data ArrayList bertipe Integer.
 https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListInteger.java
+
 Class main untuk penggunaan Struktur Data ArrayList bertipe Float.
 https://github.com/Alfandhy/ArrayListJava/blob/master/MainQueueFloat.java
+
 Class main untuk penggunaan Struktur Data ArrayList bertipe Double.
 https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListDouble.java
+
 Class main untuk penggunaan Struktur Data ArrayList bertipe object dari Class Mahasiswa dengan atribut (nama, nim, kelas dan alamat).
 https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListObject.java
 
