@@ -2,7 +2,7 @@
 ===========================================================================
 
 Class main untuk penggunaan Struktur Data ArrayList bertipe String.
-https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListInteger.java
+https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListString.java
 
 Class main untuk penggunaan Struktur Data ArrayList bertipe Integer.
 https://github.com/Alfandhy/ArrayListJava/blob/master/ArrayListInteger.java
